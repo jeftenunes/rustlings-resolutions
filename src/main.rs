@@ -1,3 +1,5 @@
+//rustlings/clippy
+
 fn main() {
     clippy1();
     clippy2();
